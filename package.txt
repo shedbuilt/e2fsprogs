@@ -1,5 +1,5 @@
 NAME=e2fsprogs
-VERSION=1.43.5
-REVISION=1
-SRC=http://downloads.sourceforge.net/project/e2fsprogs/e2fsprogs/v1.43.5/e2fsprogs-1.43.5.tar.gz
-SRCMD5=40aa1b7d7d6bd9c71db0fbf325a7c199
+VERSION=1.43.8
+REVISION=2
+SRC=http://downloads.sourceforge.net/project/e2fsprogs/e2fsprogs/v1.43.8/e2fsprogs-1.43.8.tar.gz
+SRCMD5=af4f9aeba1a3b875c2ef1c58e995578d
