@@ -1,5 +1,5 @@
 NAME=e2fsprogs
 VERSION=1.44.0
-REVISION=4
+REVISION=1
 SRC=https://mirrors.edge.kernel.org/pub/linux/kernel/people/tytso/e2fsprogs/v1.44.0/e2fsprogs-1.44.0.tar.xz
 SRCMD5=ee62d959e4809a07eaf12c45ee614cd2
