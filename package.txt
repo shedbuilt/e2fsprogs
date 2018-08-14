@@ -1,8 +1,8 @@
 NAME=e2fsprogs
-VERSION=1.44.2
-REVISION=1
-SRC=https://downloads.sourceforge.net/project/e2fsprogs/e2fsprogs/v1.44.2/e2fsprogs-1.44.2.tar.gz
-SRCMD5=97b1c3603e5465667317775cf020e1a9
+VERSION=1.44.3
+REVISION=2
+SRC=https://downloads.sourceforge.net/project/e2fsprogs/e2fsprogs/v1.44.3/e2fsprogs-1.44.3.tar.gz
+SRCMD5=6bd765f3cf8f15740cdf81e71e88f2a4
 BUILDDEPS=docs:gzip
 OPTIONS=bootstrap|release (docs)
 DEFAULTS=release docs
